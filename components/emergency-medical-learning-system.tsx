@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { Badge } from '@/components/ui/badge';
-import { Heart, Brain, Stethoscope, Award, Clock, Target, Plus, Edit, Trash2, Save, X, Calendar, TrendingUp, FileText, Settings, Users, LogOut, User, AlertCircle } from 'lucide-react';
+import { Heart, Brain, Stethoscope, Award, Target, Plus, Edit, Trash2, X, Calendar, TrendingUp, FileText, Settings, Users, LogOut, User, AlertCircle } from 'lucide-react';
 
 const EmergencyMedicalLearningSystem = () => {
   // カテゴリー設定
