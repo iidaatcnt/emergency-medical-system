@@ -6,7 +6,6 @@ import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { Badge } from '@/components/ui/badge';
 import { Heart, Brain, Stethoscope, Award, Target, Plus, Edit, Trash2, X, Calendar, TrendingUp, FileText, Settings, Users, LogOut, User, AlertCircle } from 'lucide-react';
-
 const EmergencyMedicalLearningSystem = () => {
   // カテゴリー設定
   const categoryConfig = {
